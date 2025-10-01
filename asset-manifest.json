@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Abito-react/static/css/main.f855e6bc.css",
-    "main.js": "/Abito-react/static/js/main.b5b08039.js",
-    "static/js/453.a1a88c3a.chunk.js": "/Abito-react/static/js/453.a1a88c3a.chunk.js",
-    "static/media/logo.svg": "/Abito-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Abito-react/static/css/main.8e4a540a.css",
+    "main.js": "/Abito-react/static/js/main.0140a435.js",
+    "static/media/material.png": "/Abito-react/static/media/material.d4e5cb3e2c07c495db6f.png",
+    "static/media/car.svg": "/Abito-react/static/media/car.67aa0837d2a2771a8641a487282888cf.svg",
+    "static/media/delivery.svg": "/Abito-react/static/media/delivery.f9868c1e3f05c3879cdaa1c594ff54d3.svg",
+    "static/media/homelove.svg": "/Abito-react/static/media/homelove.1fa13af56134fa43e006f438fb737787.svg",
+    "static/media/burger.svg": "/Abito-react/static/media/burger.501791769d80351d106f66244b88ae99.svg",
+    "static/media/logo.svg": "/Abito-react/static/media/logo.e9ca93c604298109a28b2e6ca72a7562.svg",
+    "static/media/search.svg": "/Abito-react/static/media/search.e62d9a9f54ab6acf593a1ee0488d2b0e.svg",
     "index.html": "/Abito-react/index.html",
-    "main.f855e6bc.css.map": "/Abito-react/static/css/main.f855e6bc.css.map",
-    "main.b5b08039.js.map": "/Abito-react/static/js/main.b5b08039.js.map",
-    "453.a1a88c3a.chunk.js.map": "/Abito-react/static/js/453.a1a88c3a.chunk.js.map"
+    "main.8e4a540a.css.map": "/Abito-react/static/css/main.8e4a540a.css.map",
+    "main.0140a435.js.map": "/Abito-react/static/js/main.0140a435.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b5b08039.js"
+    "static/css/main.8e4a540a.css",
+    "static/js/main.0140a435.js"
   ]
 }
