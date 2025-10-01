@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Abito-react/static/css/main.f855e6bc.css",
+    "main.js": "/Abito-react/static/js/main.b5b08039.js",
+    "static/js/453.a1a88c3a.chunk.js": "/Abito-react/static/js/453.a1a88c3a.chunk.js",
+    "static/media/logo.svg": "/Abito-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Abito-react/index.html",
+    "main.f855e6bc.css.map": "/Abito-react/static/css/main.f855e6bc.css.map",
+    "main.b5b08039.js.map": "/Abito-react/static/js/main.b5b08039.js.map",
+    "453.a1a88c3a.chunk.js.map": "/Abito-react/static/js/453.a1a88c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b5b08039.js"
+  ]
+}
