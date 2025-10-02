@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Abito-react/static/css/main.8e4a540a.css",
-    "main.js": "/Abito-react/static/js/main.0140a435.js",
+    "main.css": "/Abito-react/static/css/main.791896be.css",
+    "main.js": "/Abito-react/static/js/main.6e1d753d.js",
+    "static/media/product.jpg": "/Abito-react/static/media/product.bbf9f90ab76909521a0c.jpg",
     "static/media/material.png": "/Abito-react/static/media/material.d4e5cb3e2c07c495db6f.png",
     "static/media/car.svg": "/Abito-react/static/media/car.67aa0837d2a2771a8641a487282888cf.svg",
     "static/media/delivery.svg": "/Abito-react/static/media/delivery.f9868c1e3f05c3879cdaa1c594ff54d3.svg",
@@ -10,11 +11,11 @@
     "static/media/logo.svg": "/Abito-react/static/media/logo.e9ca93c604298109a28b2e6ca72a7562.svg",
     "static/media/search.svg": "/Abito-react/static/media/search.e62d9a9f54ab6acf593a1ee0488d2b0e.svg",
     "index.html": "/Abito-react/index.html",
-    "main.8e4a540a.css.map": "/Abito-react/static/css/main.8e4a540a.css.map",
-    "main.0140a435.js.map": "/Abito-react/static/js/main.0140a435.js.map"
+    "main.791896be.css.map": "/Abito-react/static/css/main.791896be.css.map",
+    "main.6e1d753d.js.map": "/Abito-react/static/js/main.6e1d753d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4a540a.css",
-    "static/js/main.0140a435.js"
+    "static/css/main.791896be.css",
+    "static/js/main.6e1d753d.js"
   ]
 }
