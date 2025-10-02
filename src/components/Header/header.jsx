@@ -1,16 +1,17 @@
 import logo from "../../assets/images/logo.svg";
 import burger from "../../assets/images/burger.svg";
 import "./Header.css";
+import { Link } from "react-router-dom";
 
 export const Header = () => {
   return (
     <header className="header">
       <div className="container">
         <div className="header-box">
-          <a href="#!" className="header-logo">
+          <Link to={"/"} className="header-logo">
             <img src={logo} alt="logo" />
             <span>Abito</span>
-          </a>
+          </Link>
           <div className="header-controls">
             <button className="btn btn-outline">Вход и регистрация</button>
             <button className="btn btn-primary">Подать объявление</button>
